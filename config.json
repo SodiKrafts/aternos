@@ -1,0 +1,8 @@
+
+"ip":"SodiKraft.aternos.me:61693",
+"port":61693,
+"name":"SodiKraft",
+"auto-night-skip":"false",
+"login-enabled":"true",
+"register-cmd":"/registers 12345"
+"login-cmd":"/login 12345"
